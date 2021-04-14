@@ -1,2 +1,3 @@
 # TestAverage
- A simple VB app to calculate the test average
+ A simple VB app to calculate the test average.
+ 
