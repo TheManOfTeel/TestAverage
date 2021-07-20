@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{559698BC-BAA7-4A6C-AAE9-AD9E0D2859CC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>lecture3.My.MyApplication</StartupObject>
-    <RootNamespace>lecture3</RootNamespace>
-    <AssemblyName>lecture3</AssemblyName>
+    <StartupObject>TestAverage.My.MyApplication</StartupObject>
+    <RootNamespace>TestAverage</RootNamespace>
+    <AssemblyName>TestAverage</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>lecture3.xml</DocumentationFile>
+    <DocumentationFile>TestAverage.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>lecture3.xml</DocumentationFile>
+    <DocumentationFile>TestAverage.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
